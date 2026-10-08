@@ -12,3 +12,9 @@ REM Run the application
 java -cp bin com.documenteditor.Main
 
 pause
+
+
+
+public int divide(int a, int b) {
+    return a / b;
+}
