@@ -1,7 +1,7 @@
 # Document Editor - CPSC7700 Term Project
 
 A modular, extensible text-based document editor demonstrating multiple design patterns.
-
+Okay done
 ## Features
 
 ### Core Features
